@@ -63,10 +63,7 @@ ul li a:hover{
 }
 #main1{
     height: 5vh;
-    /* border:20px solid transparent;
-    border-image: linear-gradient(90deg, rgba(2,0,36,1) 4%, rgba(0,212,255,1) 100%)60;
-    
-    */
+   
     
     }
     .cont1{
@@ -139,8 +136,6 @@ ul li a:hover{
 }
   .main2{
     height: 87vh;
-  
-   
     
     }
     .bar{
@@ -287,9 +282,7 @@ ul li a:hover{
         color: rgb(234, 234, 234);
     font-size:180%;
     }
-    .noti{
-        
-    }
+   
     .ratings{
         display: flex;
         position: relative;
@@ -319,12 +312,7 @@ ul li a:hover{
         
       
       }
-      #message{
     
-      }
-      .userlogo{
-      
-      }
       .rightarrow{
         width: 90px;
         position: relative;
