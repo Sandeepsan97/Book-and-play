@@ -1,11 +1,25 @@
-# Book and play
- 100 project
-About my project: 4 lines about your project
-To help people to find grounds and connect to player.
- It help to If you are new to some place you cant find ground and friends to play 
- In my website you can book your ground from your home and connect with players.
-Problem statement: Google Drive link(https://docs.google.com/document/d/18aAV5Ef3yPXUkzdbHZK-H9tf9KAuVi0ZLhSZone1M6Q/edit?usp=sharing)
-Market Research: Google Drive link(https://docs.google.com/document/d/11vh1bqQm5panRBV-MRlC9okc15jt6nhJO8hIUx2JLMo/edit?usp=sharing)
-User flow: Google Drive link(https://drive.google.com/file/d/1_f0mXFmipp_Tya75GEdwPI67fELqORL4/view?usp=sharing)
-Wireframe: Google Drive link(https://drive.google.com/file/d/1A_lsvNQ80Cajqcux2PFspVUHKbqmzHIQ/view?usp=sharing)
-Live Server Link:https://sandeepsan97.github.io/Book-and-play/
+# Book and Play 
+Hi This project was developed using HTML, CSS, and JavaScript, with local storage.
+### Netlify Link 
+https://bookandplaypro.netlify.app/
+
+
+Welcome to the **Book and Play** platform!
+
+## Overview
+
+**Book and Play** is a platform designed to assist individuals in reserving sports facilities and connecting with fellow players. The website offers the following key functionalities:
+
+### Website Functionality
+
+Users can easily reserve sports grounds through an intuitive and user-friendly interface. The booking process is designed to be straightforward and efficient.
+
+### Community Building
+
+**Book and Play** aims to foster a sense of community among sports enthusiasts. Users can find fellow players who share similar interests and connect with them for sports activities.
+
+### Communication Tool
+
+To enhance user interaction, the platform provides a chat feature. Users can communicate with each other.
+
+
